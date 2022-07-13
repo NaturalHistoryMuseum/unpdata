@@ -1,0 +1,11 @@
+Package: unpdata
+Type: Package
+Title: Urban Nature Project Data
+Version: 0.1.0
+Authors@R: c(
+  person("Baker", "Ed", email = "ed@ebaker.me.uk", role = c("aut", "cre"))
+  )
+Description: Basic information about UNP sites, etc.
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
