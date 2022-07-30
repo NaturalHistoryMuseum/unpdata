@@ -6,6 +6,6 @@ Authors@R: c(
   person("Baker", "Ed", email = "ed@ebaker.me.uk", role = c("aut", "cre"))
   )
 Description: Basic information about UNP sites, etc.
-License: What license is it under?
+License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
