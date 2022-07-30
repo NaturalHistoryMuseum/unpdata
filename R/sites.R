@@ -1,3 +1,4 @@
+#' @export
 sites <- function() {
   names <- c(
     "Natural History Museum",
