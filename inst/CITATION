@@ -3,7 +3,7 @@ citHeader("To cite schite in publications use:")
 citEntry(
   entry    = "Manual",
   title    = "unpdata: Urban Nature Project data tools for R",
-  author   = "Baker, E.",
+  author   = person(family="Baker", given="Ed"),
   year     = "2022",
   url      = "https://github.com/naturalhistorymuseum/unpdata",
   textVersion = paste(
