@@ -1,8 +1,8 @@
-citHeader("To cite schite in publications use:")
+citHeader("To cite UNP Data in publications use:")
 
 citEntry(
   entry    = "Manual",
-  title    = "unpdata: Urban Nature Project data tools for R",
+  title    = "unpdata: Urban Nature Project data",
   author   = person(family="Baker", given="Ed"),
   year     = "2022",
   url      = "https://github.com/naturalhistorymuseum/unpdata",
