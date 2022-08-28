@@ -1,3 +1,7 @@
+#' Sites data for Urban Nature Project
+#'
+#' Provides a data frame of information regarding the UNP sites.
+#'
 #' @export
 sites <- function() {
   names <- c(
