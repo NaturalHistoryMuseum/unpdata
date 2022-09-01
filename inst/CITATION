@@ -3,7 +3,7 @@ citHeader("To cite UNP Data in publications use:")
 citEntry(
   entry    = "Manual",
   title    = "unpdata: Urban Nature Project data",
-  author   = person(family="Baker", given="Ed"),
+  author   = person(family="Baker", given="Ed", role = c("aut", "cre"), comment=c(ORCID="0000-0002-5887-9543")),
   year     = "2022",
   url      = "https://github.com/naturalhistorymuseum/unpdata",
   textVersion = paste(
