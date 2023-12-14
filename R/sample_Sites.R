@@ -5,10 +5,10 @@
 #' @export
 sample_sites <- function() {
   code <- c(
-    "Glasgow1",
-    "Glasgow2",
-    "Newcastle1",
-    "Newcastle2"
+    "Glasgow-1",
+    "Glasgow-2",
+    "Newcastle-1",
+    "Newcastle-2"
   )
   name <- c(
     "Springburn Allotments",
