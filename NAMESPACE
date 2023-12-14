@@ -2,3 +2,4 @@
 
 export(sample_sites)
 export(sites)
+importFrom(rnrfa,osg_parse)
