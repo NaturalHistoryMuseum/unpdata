@@ -34,7 +34,6 @@ sample_sites <- function() {
     "ST58926767",
     "ST59006756",
     "SX47465610"
-
   )
 
   wgs84 <- osg_parse(OSgrid, coord_system = "WGS84")
