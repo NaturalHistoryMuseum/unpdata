@@ -12,7 +12,8 @@ sample_sites <- function() {
     "Newcastle-2",
     "device-1-pond",
     "device-2-orchard",
-    "device-3-church"
+    "device-3-church",
+    "ewb-plymouth-central-park"
   )
   name <- c(
     "Springburn Allotments",
@@ -21,7 +22,8 @@ sample_sites <- function() {
     "Gosforth Nature Reserve Visitor Center",
     "Bristol Community Gardens - Pond",
     "Bristol Community Gardens - Orchard",
-    "Bristol Community Gardens - Fence near Church"
+    "Bristol Community Gardens - Fence near Church",
+    "Plymouth Central Park"
   )
   OSgrid <- c(
     "NS60236880",
@@ -30,7 +32,8 @@ sample_sites <- function() {
     "NZ25966989",
     "ST58976767",
     "ST58926767",
-    "ST59006756"
+    "ST59006756",
+    "SX47465610"
 
   )
 
