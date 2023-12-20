@@ -13,7 +13,10 @@ sample_sites <- function() {
     "device-1-pond",
     "device-2-orchard",
     "device-3-church",
-    "ewb-plymouth-central-park"
+    "ewb-plymouth-central-park",
+    "ewb-askham-site1",
+    "ewb-askham-site2-NearWoodPond",
+    "ewb-askham-site3"
   )
   name <- c(
     "Springburn Allotments",
@@ -23,7 +26,10 @@ sample_sites <- function() {
     "Bristol Community Gardens - Pond",
     "Bristol Community Gardens - Orchard",
     "Bristol Community Gardens - Fence near Church",
-    "Plymouth Central Park"
+    "Plymouth Central Park",
+    "Askham Bog Tree",
+    "Askham Bog Pond",
+    "Askham Bog Field"
   )
   OSgrid <- c(
     "NS60236880",
@@ -33,7 +39,10 @@ sample_sites <- function() {
     "ST58976767",
     "ST58926767",
     "ST59006756",
-    "SX47465610"
+    "SX47465610",
+    "SE57874856",
+    "SE57874856",
+    "SE57874856"
   )
 
   wgs84 <- osg_parse(OSgrid, coord_system = "WGS84")
